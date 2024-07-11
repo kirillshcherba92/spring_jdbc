@@ -21,7 +21,7 @@ import java.util.List;
 
 @Configuration
 public class ConfigConnectionDataBase {
-
+// lol
     @Autowired
     private ApplicationContext applicationContext;
 
