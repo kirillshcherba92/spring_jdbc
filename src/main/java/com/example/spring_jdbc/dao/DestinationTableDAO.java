@@ -1,11 +1,9 @@
 package com.example.spring_jdbc.dao;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class DestinationTableDAO extends DataBaseDAO{
     private String tableName;
-//    private List<String> additionalRows = new ArrayList<>();
     private List<String> additionalRows;
 
     public String getTableName() {
